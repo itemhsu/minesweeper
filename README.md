@@ -35,3 +35,4 @@ we will take the training time save rather than accuracy in this DEMO.
 
 MxNet, Gluon
 # minesweeper
+# minesweeper
